@@ -1,0 +1,70 @@
+standard_type,standard_units,n
+IC50,nM,17099
+Inhibition,%,7808
+kon,,2946
+k_off,s-1,2946
+Ki,nM,2741
+IC50,,2015
+AC50,nM,1823
+Ki,,948
+Potency,nM,679
+EC50,nM,240
+Activity,%,229
+delta pIC50 wt-mutant,,200
+INH,uM,157
+Activity,,143
+IC20,uM,134
+pIC50,,130
+IP,nM,112
+Activity,uM,96
+Activity,nM,75
+TIME,hr,50
+Kd,nM,46
+K,/min,45
+INH,nM,39
+Ratio IC50,,34
+IC25,uM,32
+pKi,,31
+Ratio,,31
+% Ctrl,%,29
+IC20,,26
+K,/nM/min,25
+FC,,24
+Imax,%,17
+EC50,,13
+IC50,ug.mL-1,13
+Inflection point,nM,13
+K,10'-4/nM/min,12
+K,10'-5/nM/min,7
+Activity,mV,7
+Log IC50,,6
+Ratio Ki,,6
+Inhibitory activity,%,5
+XC50,nM,4
+QT interval,,4
+IC50,ucm,3
+EC10,nM,3
+IC20,nM,3
+%max,%,2
+% of inhibition,%,2
+% of control,%,2
+pXC50,M,2
+V1/2,mV,2
+K,,2
+% of inhibition or stimulation,%,1
+INH,pM,1
+IC60,uM,1
+IC5,uM,1
+IC25,ug ml-1,1
+IC20,ug ml-1,1
+EC25,uM,1
+Emax,%,1
+Fold change,,1
+ED50,uM,1
+Activity,ms,1
+Inhibition of control,%,1
+Imax,,1
+Kd,,1
+K,10'-7/nM/min,1
+Time,,1
+effect,%,1

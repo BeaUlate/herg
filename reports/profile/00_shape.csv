@@ -1,0 +1,10 @@
+quantity,n
+activity records,41078
+distinct assays,4829
+distinct compounds (molregno),26310
+distinct parent compounds,26093
+distinct InChIKeys,26254
+distinct documents,3494
+rows with no SMILES,102
+rows with no standard_value,10545
+rows with no pchembl_value,26815

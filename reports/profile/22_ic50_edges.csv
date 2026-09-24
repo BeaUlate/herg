@@ -1,0 +1,9 @@
+quantity,n
+IC50 rows,17114
+IC50 rows in nM,17098
+IC50 rows in other/blank units,16
+"IC50 < 0.1 nM (implausible, check units)",2
+"IC50 > 1 mM (implausible, check units)",88
+IC50 rows censored (relation != '='),5093
+IC50 rows with a validity comment,378
+IC50 rows with no pchembl_value,5405

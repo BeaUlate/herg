@@ -1,0 +1,6 @@
+quantity,n
+compounds with 1 record,20207
+compounds with >= 2 records,6103
+compounds with >= 3 records,2992
+compounds with >= 2 distinct documents,2478
+compounds with >= 2 distinct standard_types,4077

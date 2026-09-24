@@ -1,0 +1,16 @@
+keyword_probe,n_assays,pct_of_assays
+patch clamp,1713,35.5
+HEK,947,19.6
+binding/radioligand,793,16.4
+CHO,694,14.4
+whole-cell,431,8.9
+automated,366,7.6
+holding/step voltage stated,360,7.5
+flux/fluorescence,273,5.7
+manual,167,3.5
+QPatch,152,3.1
+IonWorks,141,2.9
+oocyte,51,1.1
+temperature stated,44,0.9
+PatchXpress,26,0.5
+SyncroPatch|Qube|Patchliner,15,0.3

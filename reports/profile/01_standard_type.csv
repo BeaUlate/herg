@@ -1,0 +1,47 @@
+standard_type,n,pct
+IC50,19130,46.57
+Inhibition,7808,19.01
+Ki,3689,8.98
+kon,2946,7.17
+k_off,2946,7.17
+AC50,1823,4.44
+Potency,679,1.65
+Activity,551,1.34
+EC50,253,0.62
+delta pIC50 wt-mutant,200,0.49
+INH,197,0.48
+IC20,164,0.4
+pIC50,130,0.32
+IP,112,0.27
+K,92,0.22
+TIME,50,0.12
+Kd,47,0.11
+Ratio IC50,34,0.08
+IC25,33,0.08
+pKi,31,0.08
+Ratio,31,0.08
+% Ctrl,29,0.07
+FC,24,0.06
+Imax,18,0.04
+Inflection point,13,0.03
+Ratio Ki,6,0.01
+Log IC50,6,0.01
+Inhibitory activity,5,0.01
+QT interval,4,0.01
+XC50,4,0.01
+EC10,3,0.01
+% of control,2,0.0
+% of inhibition,2,0.0
+V1/2,2,0.0
+%max,2,0.0
+pXC50,2,0.0
+EC25,1,0.0
+ED50,1,0.0
+IC60,1,0.0
+Fold change,1,0.0
+Time,1,0.0
+Emax,1,0.0
+effect,1,0.0
+% of inhibition or stimulation,1,0.0
+IC5,1,0.0
+Inhibition of control,1,0.0
